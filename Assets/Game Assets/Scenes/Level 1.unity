@@ -4032,7 +4032,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: filePath
-      value: Assets/Game Assets/TXTs/Level 2.txt
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: beatTempo
@@ -4056,7 +4056,7 @@ PrefabInstance:
       objectReference: {fileID: 1401042895}
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: offsetTiming
-      value: 3
+      value: -0.75
       objectReference: {fileID: 0}
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: shieldPrefab
