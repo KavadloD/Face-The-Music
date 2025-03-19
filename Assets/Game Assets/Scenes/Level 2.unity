@@ -4392,6 +4392,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
+      propertyPath: leveltxt
+      value: Level 2.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: beatTempo
       value: 106
       objectReference: {fileID: 0}

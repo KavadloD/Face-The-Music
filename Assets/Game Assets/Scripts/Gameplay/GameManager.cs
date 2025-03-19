@@ -23,6 +23,7 @@ public class GameManager : MonoBehaviour
     public GameObject startScreen;
 
     public string filePath;
+    public string leveltxt;
 
     //Spawning
     public GameObject spawner1;
@@ -53,7 +54,7 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        filePath = System.IO.Path.Combine(Application.streamingAssetsPath, "Level 1.txt"); // Change per level
+        filePath = System.IO.Path.Combine(Application.streamingAssetsPath, leveltxt); // Change per level
         Debug.Log("Loading file from: " + filePath);
         
         readTextFile(filePath);

@@ -4035,6 +4035,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
+      propertyPath: leveltxt
+      value: Level 1.txt
+      objectReference: {fileID: 0}
+    - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: beatTempo
       value: 150
       objectReference: {fileID: 0}
@@ -4056,7 +4060,7 @@ PrefabInstance:
       objectReference: {fileID: 1401042895}
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: offsetTiming
-      value: -0.75
+      value: -0.85
       objectReference: {fileID: 0}
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: shieldPrefab

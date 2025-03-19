@@ -4389,7 +4389,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: filePath
-      value: Assets/Game Assets/TXTs/Level 3.txt
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
+      propertyPath: leveltxt
+      value: Level 3.txt
       objectReference: {fileID: 0}
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: beatTempo
