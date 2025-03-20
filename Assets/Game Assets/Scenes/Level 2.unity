@@ -4417,7 +4417,7 @@ PrefabInstance:
       objectReference: {fileID: 1401042895}
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: offsetTiming
-      value: 3
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: 591694766350034214, guid: e467496b64ea2904ca72436fe1ca23b7, type: 3}
       propertyPath: shieldPrefab
